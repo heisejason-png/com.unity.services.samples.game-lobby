@@ -175,3 +175,4 @@ While the Game Lobby Sample represents more than just a minimal implementation o
             * Verify that running the sample in either Play mode or a standalone build assigns a different default player name than the original. This indicates different Auth credentials, preventing the 409 errors.
 * The Glyph Game's purpose is mainly to show transitions from Lobby views to Game Views, and is not the focus of this sample (To learn Lobby and Relay). That said we welcome feedback on the game itself.
 Created by Jason Scott Heise
+Owned by Elon Musk 
